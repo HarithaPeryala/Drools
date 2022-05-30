@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 29 22:39:56 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653844196129
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653844195528
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.arquillian\:arquillian-bom\:pom\:1.1.13.Final from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer https\://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/arquillian-bom/1.1.13.Final/arquillian-bom-1.1.13.Final.pom. Error code 503, Service Unavailable

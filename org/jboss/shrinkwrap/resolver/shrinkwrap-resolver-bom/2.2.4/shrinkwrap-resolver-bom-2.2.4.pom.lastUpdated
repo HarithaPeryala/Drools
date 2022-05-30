@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 29 22:39:58 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653844198269
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653844197620
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:2.2.4 from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer https\://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.4/shrinkwrap-resolver-bom-2.2.4.pom. Error code 503, Service Unavailable

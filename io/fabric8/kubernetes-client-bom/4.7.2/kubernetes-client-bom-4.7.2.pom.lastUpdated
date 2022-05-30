@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 29 22:40:01 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653844201412
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653844200781
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact io.fabric8\:kubernetes-client-bom\:pom\:4.7.2 from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer https\://repository.jboss.org/nexus/content/groups/public/io/fabric8/kubernetes-client-bom/4.7.2/kubernetes-client-bom-4.7.2.pom. Error code 503, Service Unavailable

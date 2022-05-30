@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 29 22:42:44 IST 2022
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1653844364922
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1653844364924
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.drools\:drools-core\:pom\:7.49.0.Final from/to spring-snapshots (https\://repo.spring.io/snapshot)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.drools\:drools-core\:pom\:7.49.0.Final from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 29 22:39:51 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653844191197
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653844190568
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.kie\:kie-user-bom-parent\:pom\:7.63.0.Final from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer https\://repository.jboss.org/nexus/content/groups/public/org/kie/kie-user-bom-parent/7.63.0.Final/kie-user-bom-parent-7.63.0.Final.pom. Error code 503, Service Unavailable

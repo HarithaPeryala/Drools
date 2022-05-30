@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 29 22:40:00 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653844200292
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653844199709
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.errai.bom\:errai-internal-bom\:pom\:4.15.0.Final from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer https\://repository.jboss.org/nexus/content/groups/public/org/jboss/errai/bom/errai-internal-bom/4.15.0.Final/errai-internal-bom-4.15.0.Final.pom. Error code 503, Service Unavailable
